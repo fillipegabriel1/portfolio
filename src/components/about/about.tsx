@@ -1,7 +1,7 @@
 import { ArrowUpRight, BrainCircuit, Database, Workflow } from 'lucide-react';
 import { motion } from 'framer-motion';
 
-import './About.css';
+import './about.css';
 
 const areas = [
   {
